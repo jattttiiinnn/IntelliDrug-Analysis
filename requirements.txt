@@ -1,95 +1,95 @@
-# annotated-types==0.7.0
-# cachetools==5.3.3
-# certifi==2025.10.5
-# charset-normalizer==3.4.4
-# colorama==0.4.6
-# google-ai-generativelanguage==0.6.15
-# google-api-core==2.26.0
-# google-api-python-client==2.185.0
-# google-auth==2.41.1
-# google-auth-httplib2==0.2.0
-# google-generativeai==0.8.5
-# googleapis-common-protos==1.71.0
-# grpcio==1.76.0
-# grpcio-status==1.71.2
-# httplib2==0.31.0
-# idna==3.11
-# proto-plus==1.26.1
-# protobuf==4.25.3
-# pyasn1==0.6.1
-# pyasn1_modules==0.4.2
-# pydantic==2.12.3
-# pydantic_core==2.41.4
-# pyparsing==3.2.5
-# python-dotenv==1.1.1
-# requests==2.32.5
-# rsa==4.9.1
-# tqdm==4.67.1
-# typing-inspection==0.4.2
-# typing_extensions==4.15.0
-# uritemplate==4.2.0
-# urllib3==2.5.0
-# fpdf2==2.6.0
-# pandas==2.1.0
-# streamlit==1.24.1
-# Core Dependencies
-
-
-# Streamlit (will be auto-installed by Streamlit Cloud, but pinning version)
-streamlit==1.51.0
-
-# Core Dependencies
-python-dotenv==1.1.1
-
-# Google Gemini AI
-google-generativeai==0.8.5
+annotated-types==0.7.0
+cachetools==5.3.3
+certifi==2025.10.5
+charset-normalizer==3.4.4
+colorama==0.4.6
 google-ai-generativelanguage==0.6.15
 google-api-core==2.26.0
 google-api-python-client==2.185.0
 google-auth==2.41.1
 google-auth-httplib2==0.2.0
+google-generativeai==0.8.5
 googleapis-common-protos==1.71.0
-
-# Data Processing
-pandas==2.2.0
-numpy==1.26.4
-
-# PDF Generation - CRITICAL: This was missing!
-fpdf2==2.8.1
-
-# Utilities
-requests==2.32.5
-tqdm==4.67.1
-colorama==0.4.6
-
-# Type Checking
-typing-extensions==4.15.0
-annotated-types==0.7.0
-pydantic==2.12.3
-pydantic-core==2.41.4
-typing-inspection==0.4.2
-
-# Protocol Buffers & gRPC
-protobuf==5.29.5
 grpcio==1.76.0
 grpcio-status==1.71.2
-proto-plus==1.26.1
-
-# HTTP & Auth
 httplib2==0.31.0
-certifi==2024.7.4
-charset-normalizer==3.4.4
 idna==3.11
-urllib3==2.5.0
-uritemplate==4.2.0
-
-# RSA & Auth
-rsa==4.9.1
+proto-plus==1.26.1
+protobuf==4.25.3
 pyasn1==0.6.1
-pyasn1-modules==0.4.2
-
-# Caching
-cachetools==6.2.1
-
-# Parsing
+pyasn1_modules==0.4.2
+pydantic==2.12.3
+pydantic_core==2.41.4
 pyparsing==3.2.5
+python-dotenv==1.1.1
+requests==2.32.5
+rsa==4.9.1
+tqdm==4.67.1
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+uritemplate==4.2.0
+urllib3==2.5.0
+fpdf2==2.6.0
+pandas==2.1.0
+streamlit==1.24.1
+# Core Dependencies
+
+
+# # Streamlit (will be auto-installed by Streamlit Cloud, but pinning version)
+# streamlit==1.51.0
+
+# # Core Dependencies
+# python-dotenv==1.1.1
+
+# # Google Gemini AI
+# google-generativeai==0.8.5
+# google-ai-generativelanguage==0.6.15
+# google-api-core==2.26.0
+# google-api-python-client==2.185.0
+# google-auth==2.41.1
+# google-auth-httplib2==0.2.0
+# googleapis-common-protos==1.71.0
+
+# # Data Processing
+# pandas==2.2.0
+# numpy==1.26.4
+
+# # PDF Generation - CRITICAL: This was missing!
+# fpdf2==2.8.1
+
+# # Utilities
+# requests==2.32.5
+# tqdm==4.67.1
+# colorama==0.4.6
+
+# # Type Checking
+# typing-extensions==4.15.0
+# annotated-types==0.7.0
+# pydantic==2.12.3
+# pydantic-core==2.41.4
+# typing-inspection==0.4.2
+
+# # Protocol Buffers & gRPC
+# protobuf==5.29.5
+# grpcio==1.76.0
+# grpcio-status==1.71.2
+# proto-plus==1.26.1
+
+# # HTTP & Auth
+# httplib2==0.31.0
+# certifi==2024.7.4
+# charset-normalizer==3.4.4
+# idna==3.11
+# urllib3==2.5.0
+# uritemplate==4.2.0
+
+# # RSA & Auth
+# rsa==4.9.1
+# pyasn1==0.6.1
+# pyasn1-modules==0.4.2
+
+# # Caching
+# cachetools==6.2.1
+
+# # Parsing
+# pyparsing==3.2.5
