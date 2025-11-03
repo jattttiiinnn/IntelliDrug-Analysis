@@ -146,7 +146,6 @@ graph TD
 ### Deployment
 - **Streamlit Cloud** - Hosting and deployment
 - **GitHub Actions** - CI/CD pipeline
-- **Docker** - Containerization (optional)
 
 ---
 
